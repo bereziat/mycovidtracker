@@ -1,0 +1,6 @@
+#+TITLE: MyCovidTracker
+
+* Requirements
+  - matplotlib
+  - pandas
+
