@@ -1,7 +1,0 @@
-#+TITLE: MyCovidTracker
-
-[[./exemple.jpg]]
-* Requirements
-  - matplotlib
-  - pandas
-
